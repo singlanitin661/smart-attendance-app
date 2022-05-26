@@ -1,3 +1,4 @@
-# smart-attendance-app V1.0
+# Smart-Attendance-App V1.0
 
-The app captures face details of user and compares it with database and marks presence or absence accordingly. The attributes compared while matching data with database are face image, location, time etc.
+The app captures face details of the user and compares it with its database and marks present or absent accordingly. 
+The attributes compared while matching data with database are face image, location, time etc.
